@@ -6,4 +6,4 @@ Sometimes, though, we want to pull something a little outside its parent contain
 
 Your mission in this exercise is to reproduce the following effect:
 
-![margin-exercise-1.png](https://postimg.cc/jWs9zvPq)
+![margin-exercise-1.png](img/margin-exercise-1.png)
